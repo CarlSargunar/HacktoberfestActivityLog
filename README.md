@@ -40,7 +40,8 @@ Contributions:
 - 2024-10-04 - Warren Buckley - Umbraco 15 Release Candidate testing - [TipTap RTE Toolbar Button Feedback](https://github.com/umbraco/Umbraco-CMS/issues/17190)
 - 2024-10-11 - Søren Kottal - Wrote a blog post about my new package - [Make your own Umbraco Starter Kit without making a Starter Kit](https://dev.to/skttl/make-your-own-umbraco-starter-kit-without-making-a-starter-kit-53lo)
 - 2024-10-04 - Janae Cram - US Festival Presentation (and Demo repo) - [US Festival Speaker List](https://umbracofestival.us/speakers/), [Demo Site](https://github.com/naepalm/TinyMcePresentation) - Presentation at the US Festival inspired by Lee's Finding Contentment talk about the features of TinyMCE that can be used in the backoffice.
-
+- 2024-10-30 - Carl Sargunar - Speaking at a meetup (with Adam Prendergast) about Umbraco and Maui - [https://www.meetup.com/umbracymru/events/298562662](https://www.meetup.com/umbracymru/events/298562662)
+  
 ## New Umbraco packages
 
 Eligible contributions are brand new packages (Umbraco plugins) that have not been released on the [Umbraco Marketplace](https://marketplace.umbraco.com/) before October 2024.  
